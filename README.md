@@ -1,17 +1,10 @@
 <!-- 🖼 Banner Section -->
-<div style="
-  position: relative;
-  text-align: center;
-  color: white;
-  background-image: url('https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNvZGluZ3xlbnwwfHwwfHx8MA%3D%3D');
-  background-size: cover;
-  background-position: center;
-  padding: 100px 20px;
-  text-shadow: 2px 2px 5px black;
-">
-  <h1>Hi 👋, I'm Rishi Banerjee</h1>
-  <h3>A passionate MERN Stack Developer from India</h3>
-</div>
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNvZGluZ3xlbnwwfHwwfHx8MA%3D%3D" alt="banner" width="70%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Rishi Banerjee</h1>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 <!-- 🖥️ Coding GIF + About Me -->
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; padding: 20px;">
